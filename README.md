@@ -93,13 +93,9 @@ It is **not production-ready** and must not be used for real-world security syst
 
 ---
 
-## 🎨 Preview (Optional)
+## 🎨 Preview 
+<img width="1365" height="861" alt="s3" src="https://github.com/user-attachments/assets/9459166a-b4a8-485c-b52d-244bb80cbf01" />
+<img width="1228" height="826" alt="s2" src="https://github.com/user-attachments/assets/33026dd8-b9d0-41e3-8eb8-8c7ef009f4b4" />
+<img width="705" height="750" alt="s1" src="https://github.com/user-attachments/assets/4fc6cb2c-df8d-4068-8c82-ec72a3541da7" />
 
-You can add screenshots here to make the README look even cooler:
 
-```
-![UI Preview](https://via.placeholder.com/600x400.png?text=Facial+Auth+UI+Preview)
-```
-
----
->>>>>>> 8c427ac (Facial Recognition Auth System)
