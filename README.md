@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-# F_Recog-Gate
-=======
+
+ F_Recog-Gate 
+
 # 🔐 Facial Authentication System (Tkinter + MediaPipe)
 
 A secure **facial authentication system** built with **Python**, **Tkinter**, and **MediaPipe**.  
